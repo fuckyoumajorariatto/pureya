@@ -1,0 +1,14 @@
+using UnityEngine;
+
+public class PLA_Controller : MonoBehaviour
+{
+	public Camera RenderCamera;
+
+	public AudioClip clip;
+
+	private void Start()
+	{
+		RenderCamera.backgroundColor = new Color32(35, 59, 100, byte.MaxValue);
+		GlobalAudio.globalAudio.Play(clip, 0.9f, 1f, 0f);
+	}
+}
