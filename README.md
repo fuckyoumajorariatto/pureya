@@ -1,3 +1,5 @@
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6d438b19-ffee-44e7-8f07-5dceb516e9a3" />
+
 # PARA ALVA MAJO
 Se piadoso con este repositorio y no lo denuncies por DMCA.
 <br>
